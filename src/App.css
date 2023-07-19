@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+
+.jan2 {
+  color: red;
+}
+
+/* 4th task */
+.jan5 {
+  background-color: white;
+  color: black;
+}
+.jan3
+{
+  color: rgb(223, 223, 12);
+}
+.jan4{
+  color: white;
+}
+.jan6{
+  background-color: black;
+}
+
+/* 5th task */
+.johnyDisplay{
+  display: block;
+
+}
+.johnyDisplayNone{
+  display: none;
+}
+.sinDisplay{
+  display: block;
+}
+.sinDisplayNone{
+  display: none;
+}
